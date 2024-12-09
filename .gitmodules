@@ -1,0 +1,9 @@
+[submodule "Linux/nvim-linux"]
+	path = Linux/nvim-linux
+	url = https://github.com/elli0t43/nvim-new.git
+[submodule "Windows/AppData/Local/nvim-windows"]
+	path = Windows/AppData/Local/nvim-windows
+	url = https://github.com/elli0t43/nvim-new.git
+[submodule "WSL/.config/nvim-linux"]
+	path = WSL/.config/nvim-linux
+	url = https://github.com/elli0t43/nvim-new.git
